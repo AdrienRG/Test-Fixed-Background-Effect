@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -35,9 +35,9 @@ a {
   text-decoration: none;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main Components 
+Main Components
 
 -------------------------------- */
 .cd-header {
@@ -46,10 +46,11 @@ Main Components
   background-color: #93a748;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
   z-index: 1;
+  background: url('../img/modifs-adr/home-project.jpg');
 }
 .cd-header h1 {
   width: 90%;
-  color: #f2e6cd;
+  color: #FFF;
   text-align: center;
   font-size: 2.2rem;
   -webkit-font-smoothing: antialiased;
@@ -160,16 +161,16 @@ Main Components
     display: none !important;
   }
   .cd-fixed-background.img-1 {
-    background-image: url("../img/img-1.jpg");
+    background-image: url("../img/modifs-adr/img-1.jpg");
   }
   .cd-fixed-background.img-2 {
-    background-image: url("../img/img-2.jpg");
+    background-image: url("../img/modifs-adr/img-2.jpg");
   }
   .cd-fixed-background.img-3 {
-    background-image: url("../img/img-3.jpg");
+    background-image: url("../img/modifs-adr/img-1.jpg");
   }
   .cd-fixed-background.img-4 {
-    background-image: url("../img/img-4.jpg");
+    background-image: url("../img/modifs-adr/img-2.jpg");
   }
 }
 @media only screen and (min-width: 1048px) {
